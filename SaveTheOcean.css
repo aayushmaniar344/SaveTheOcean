@@ -1,0 +1,44 @@
+﻿body
+{
+    width:100%;
+}
+.tophalf {
+    background-image:url("file:///C:/Users/pmaniar/Desktop/Aayush%20CS/Ben_Hicks.jpg");
+    background-size:contain;
+}
+
+.bottomhalf {
+    
+    
+}
+
+.tabs {
+     text-align:center;
+     overflow:hidden;
+}
+
+.tab {color:white; 
+      padding:5px;
+      background-color:#006994;
+      text-align:center;
+     
+      
+}
+
+h1 {
+    text-align: center;
+    color:white;
+    font-size:200%;
+
+}
+h3 {text-align: center;
+    color:white;
+     font-size:150%;
+}
+h2 {color:#006994;
+    padding:15px;
+    
+}
+footer {background-color: #006994;
+        height:5000px;
+}
